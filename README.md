@@ -9,3 +9,4 @@
 **appspec.yml**：文件定义了这个应用是如何进行部署的。文件格式遵循AWS CodeDeploy规范，详情请参考：http://www.infoq.com/cn/articles/analysis-of-aws-codedeploy  
 
 **scripts**：包含部署中要执行的脚本。
+
